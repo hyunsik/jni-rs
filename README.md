@@ -8,7 +8,7 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies.jni]
-git = "git@github.com:hyunsik/jni-rs.git"
+git = "https://github.com/hyunsik/jni-rs.git"
 ```
 
 and this to your crate root:
